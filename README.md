@@ -1,2 +1,2 @@
-# website-calculator-
+# website-calculator
 web
